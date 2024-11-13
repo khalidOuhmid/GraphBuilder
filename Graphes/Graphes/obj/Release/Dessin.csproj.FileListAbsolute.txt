@@ -1,0 +1,11 @@
+Z:\Documents\IHM\Graphes\Graphes\Graphes\bin\Release\Graphes.exe.config
+Z:\Documents\IHM\Graphes\Graphes\Graphes\bin\Release\Graphes.exe
+Z:\Documents\IHM\Graphes\Graphes\Graphes\bin\Release\Graphes.pdb
+Z:\Documents\IHM\Graphes\Graphes\Graphes\obj\Release\Dessin.csproj.AssemblyReference.cache
+Z:\Documents\IHM\Graphes\Graphes\Graphes\obj\Release\Graphes.FeuilleDessin.resources
+Z:\Documents\IHM\Graphes\Graphes\Graphes\obj\Release\Graphes.ParamètresNoeud.resources
+Z:\Documents\IHM\Graphes\Graphes\Graphes\obj\Release\Graphes.Properties.Resources.resources
+Z:\Documents\IHM\Graphes\Graphes\Graphes\obj\Release\Dessin.csproj.GenerateResource.cache
+Z:\Documents\IHM\Graphes\Graphes\Graphes\obj\Release\Dessin.csproj.CoreCompileInputs.cache
+Z:\Documents\IHM\Graphes\Graphes\Graphes\obj\Release\Graphes.exe
+Z:\Documents\IHM\Graphes\Graphes\Graphes\obj\Release\Graphes.pdb
